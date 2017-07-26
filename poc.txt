@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Test Folder 23222
 
+=======
+New folder 2
+>>>>>>> branch 'master' of https://github.com/BeniaminSavu/test.git
