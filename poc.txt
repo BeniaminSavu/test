@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rrrrrrr
+=======
+aaaaa
+>>>>>>> branch 'master' of https://github.com/BeniaminSavu/test.git
